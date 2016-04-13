@@ -1,0 +1,32 @@
+{
+  "name": "getwild",
+  "version": "1.0.0",
+  "description": "GetWild",
+  "main": "app.js",
+  "dependencies": {
+    "cron": "^1.1.0",
+    "player": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuG1224/GetWild.git"
+  },
+  "keywords": [
+    "GetWild"
+  ],
+  "author": {
+    "name": "Yuji Yamaguchi",
+    "email": "yuji.yamaguchi24@gmail.com",
+    "url": "https://blog.yug1224.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuG1224/GetWild/issues"
+  },
+  "homepage": "https://github.com/YuG1224/GetWild#readme"
+}
